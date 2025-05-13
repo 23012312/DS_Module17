@@ -1,5 +1,5 @@
 # Ex24 Topological Sort
-## DATE: 25/02.25
+## DATE: 28/04/2025
 ## AIM:
 To compose the code to determine whether the topological ordering for the following graph is possible or not.
 
@@ -42,8 +42,8 @@ To compose the code to determine whether the topological ordering for the follow
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: K MADHAVA REDDY
-RegisterNumber: 212223240064
+Developed by: K.ABHINESWAR REDDY
+RegisterNumber: 212223040084
 */
 int main()
 {
